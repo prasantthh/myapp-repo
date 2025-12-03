@@ -1,0 +1,6 @@
+image:
+  repository: "dummy"
+  tag: "latest"
+
+service:
+  port: 80
